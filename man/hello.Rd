@@ -1,6 +1,6 @@
 \name{santa}
 \alias{santa}
-\title{Santa}
+\title{santa}
 \usage{
 santa()
 }
