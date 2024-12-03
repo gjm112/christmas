@@ -14,7 +14,7 @@
 #   Test Package:              'Cmd + Shift + T'
 
 santa <- function() {
-  if (runif() < 0.9) {
+  if (runif(1) < 0.9) {
     print("Ho Ho Ho!  Merry Christmas!")
   } else {
     print("You've been a naughty little child. Coal for you!")
