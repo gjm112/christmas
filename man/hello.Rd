@@ -1,12 +1,12 @@
-\name{hello}
-\alias{hello}
-\title{Hello, World!}
+\name{santa}
+\alias{santa}
+\title{Santa}
 \usage{
-hello()
+santa()
 }
 \description{
-Prints 'Hello, world!'.
+Prints a greeting from Santa.
 }
 \examples{
-hello()
+santa()
 }
